@@ -1,10 +1,10 @@
 .page {
-    background: #2A2C2F;
-    min-width: 320px;
-    margin: 0 auto;
-    font-family: "Inter", "Arial", sans-serif;
-    color: white;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  background: #2A2C2F;
+  min-width: 320px;
+  margin: 0 auto;
+  font-family: "Inter", "Arial", sans-serif;
+  color: white;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
