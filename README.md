@@ -5,3 +5,5 @@
 Пути к файлам и организация файлов сделана по БЭМ.
 
 Страница создана с использованием HTML и CSS.
+
+[Ссылка на страницу на GitHub Pages](https://kerjanoid.github.io/russian-travel/)
