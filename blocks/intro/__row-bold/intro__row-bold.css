@@ -1,7 +1,7 @@
-.intro__row {
+.intro__row-bold {
   margin: 0;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 12px;
   line-height: 1.5;
 }

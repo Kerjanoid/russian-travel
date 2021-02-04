@@ -1,17 +1,16 @@
 .lead {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    max-width: 984px;
-    max-height: 1005px;
-    padding-top: 56px;
-    margin: 0 auto;
-    padding: 48px 48px 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-top: 56px;
 }
 
-@media screen and (max-width: 768px) {
-    .lead {
-    padding: 48px 0 0 0;
-    }
+@media screen and (max-width: 1024px) {
+  .lead {
+    max-width: 928px;
+    padding-top: 48px;
+  }
 }

@@ -1,9 +1,0 @@
-.cover__text {
-  text-decoration: none;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  z-index: 1;
-}
